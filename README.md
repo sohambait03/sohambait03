@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohambait03&show_icons=true&theme=tokyonight)
 
 # Hi 👋 I'm Soham Bait
 ✈️ Aeronautical Engineering Student

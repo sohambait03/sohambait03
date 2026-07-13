@@ -159,11 +159,11 @@ Become an Aerospace Engineer developing next-generation aircraft and propulsion 
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="linkedin.com/in/soham-bait">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:baitsoham03@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 

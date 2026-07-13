@@ -46,9 +46,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohambait03&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohambait03&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sohambait03&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -68,7 +68,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohambait03&theme=tokyo-night"/>
 
 </p>
 
@@ -78,7 +78,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sohambait03&theme=tokyonight&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -150,7 +150,7 @@
 
 <p align="left">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=sohambait03&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 

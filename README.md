@@ -1,5 +1,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohambait03&show_icons=true&theme=tokyonight)
-
 # Hi 👋 I'm Soham Bait
 ✈️ Aeronautical Engineering Student
 Passionate about aircraft design, aerodynamics, propulsion systems, flight mechanics, and engineering innovation.

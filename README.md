@@ -159,7 +159,7 @@ Become an Aerospace Engineer developing next-generation aircraft and propulsion 
 
 <p align="center">
 
-<a href="linkedin.com/in/soham-bait">
+<a href="[linkedin.com/in/soham-bait](https://www.linkedin.com/in/soham-bait/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
